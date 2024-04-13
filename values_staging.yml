@@ -1,5 +1,5 @@
 replicas: 1
 image:
-  repository: Vukischmucki/spring
+  repository: vukerusschmuckerus/spring
   tag: 0.0.1
 environment: staging
